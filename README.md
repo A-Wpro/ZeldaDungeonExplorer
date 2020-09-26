@@ -2,7 +2,7 @@
 QT zelda game that auto-create maps. In collaboration with ThibaultPro and Tompa. 
 
 
-This project is a little QT game.
+This project is a little QT game with openCV.
 
 Main feature is the procedural mapping, it's mean that every map are unique.
 
